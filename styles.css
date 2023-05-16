@@ -1,0 +1,132 @@
+body{
+ margin: 0px;
+ text-align: center;
+
+}
+p{
+    font-family: Montserrat, sans-serif;
+    letter-spacing: 2px;
+    line-height: 2;
+}
+h2{
+    font-family:  Montserrat, sans-serif;
+    margin-top: 20px;
+}
+hr{
+    border: dotted 6px #e0e1dd;
+    border-bottom: none;
+    width: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+mark{
+    background-color: #d4a373;
+    padding: 0 7px 0;
+}
+a{
+    font-family:Montserrat, sans-serif;
+    color: #f5ebe0;
+    letter-spacing: 2px;
+    margin: 20px 50px 20px 40px;
+}
+
+.upperbody{
+    background-color:  #f5ebe0;#fefae0
+}
+.headder{
+    padding-top: 200px;
+    font-family: 'Dancing Script', cursive;
+    font-size: larger;
+}
+.cloud1{
+    position: absolute;
+    right: 300px;
+    top: 100px;
+    width: 200px;
+}
+.cloud2{
+    position: absolute;
+    left: 200px;
+    top: 300px;
+    width: 200px;
+}
+.mountain{
+    width: 700px;
+}
+
+.picture1{
+    width: 300px;
+    border-radius:50%;
+    padding: 50px 0 10px;
+}
+.gif1{
+    width: 500px;
+    position: absolute;
+    left: 250px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.para1{
+    position: absolute;
+    right: 200px;
+    margin-top: 120px;
+    margin-left: 20px;
+}
+.skill1{
+    display: flex;
+    margin: auto;
+    width: 1000px;
+    margin-bottom: 100px;
+}
+.coding-picture{
+    width: 50%;
+    margin-left: 50px;
+}
+.coding-intro{
+    width: 50%;
+    margin-top: 60px;
+    
+}
+.skill2{
+    display: flex;
+    width: 1000px;
+    margin: auto;
+    padding-bottom: 100px;
+}
+.sports-intro{
+  width: 50%;
+  margin-top: 150px;
+  margin-right: 40px;
+}
+.sports-picture{
+    width: 50%px;
+}
+.skill3{
+    width: 1000px;
+    display: flex;
+    margin: 20px auto 50px  ;
+}
+.poetry-picture{
+    width: 50%;
+}
+.poetry-intro{
+    width: 50%;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.footer{
+    background-color: #d4a373;
+    margin: 20px auto none;
+    padding: 70px 0 55px;
+    
+}
+a{
+    font-family:Montserrat, sans-serif;
+    color: #f5ebe0;
+    letter-spacing: 2px;
+    margin: 20px 50px 20px 40px;
+}
+.Contact{
+    padding-bottom: 20px;
+    color: #f5ebe0;
+}
